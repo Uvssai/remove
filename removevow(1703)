@@ -4,3 +4,7 @@ for i in s:
     if i in v:
         continue
     print(i,end='')
+    
+    output:
+    Python
+    Pythn
